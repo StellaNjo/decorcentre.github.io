@@ -1,2 +1,2 @@
 # decorcentre.github.io
-Decor hub for all Events, Homes and Workplaces
+Decor Hub for all Events,Hotels, Homes and Workplaces
